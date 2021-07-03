@@ -1,0 +1,29 @@
+h1{
+    color: #00ffff;
+}
+small{
+     text-align: center;
+     color: pink;
+     font-size: x-large;
+}
+.blog p{
+    text-align: justify;
+    color: pink;
+    font-size: x-large;
+}
+.blog{
+     background-color: #ff008c;
+     border: 50px solid blueviolet;
+     margin-top: 24px;
+     padding: 46px;
+     margin-bottom: 24px;
+     margin-left: auto;
+     margin-right: auto;
+     border-radius: 9px;
+     width: 45%;
+ }
+.blog-title{
+    text-align: center;
+    color: #ffe600;
+    font-size: 3em;  
+ }
